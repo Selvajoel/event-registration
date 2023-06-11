@@ -155,6 +155,9 @@ text-align: center;
 color: #FFFFFF;
 ```
 ## OUTPUT:
+![](/244090101-de6a6103-7074-4718-8037-516ab2261b47.png)
+![](/244090137-2cd7bae3-c4e9-4160-8d68-95f501661a4b.png)
+![](/244090157-da52d4cc-1651-428f-96fc-964ae4874ca7.png)
 
 ## Result:
 The program to design, develope and deploy a web application for event registration is completed.
